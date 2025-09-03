@@ -12,6 +12,7 @@ function App() {
       <ScrollBackgroundVideo src="/0001-0120.webm" heightPerSecond={2560} />
     </div>
   )
+
 }
 
 export default App
